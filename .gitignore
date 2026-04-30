@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gradle files
 .gradle/
 build/
@@ -32,3 +33,18 @@ google-services.json
 
 # Android Profiling
 *.hprof
+=======
+# Ignore Gradle files
+.gradle/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore build outputs
+/build/
+
+# Ignore other files
+/local.properties
+/gradle.properties
+>>>>>>> ecaf76c (Initial commit)
